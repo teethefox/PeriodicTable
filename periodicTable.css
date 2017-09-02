@@ -1,0 +1,34 @@
+.blue{
+    background-color:#689bff;
+}
+.blank{
+    background-color: white;
+}
+.yellow{
+    background-color: #fecb00;
+}
+.green{
+    background-color: #1fca21;
+    position:relative;
+    left:315px;
+
+}
+.pink{
+    background-color:#fd9a98;
+}
+p{
+    width:90px;
+    height:90px;
+    display:inline-flex;
+    position:relative;
+    left:170px;
+    top:-880px;
+}
+#one li{
+    display:inline-flex;
+    padding-right:90px;
+}
+#two li{
+    display:block;
+    padding-bottom:100px
+}
